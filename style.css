@@ -4,12 +4,9 @@ html {
     text-align: center;
   }
 
-  
   body {
     margin:0;
-    font-family: Impact, Charcoal, sans-serif;
     color: rgb(48, 33, 0);
-    font-size:42px;
   }
 
   button {
