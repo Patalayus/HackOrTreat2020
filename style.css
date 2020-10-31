@@ -6,6 +6,9 @@ html {
   
   body {
     margin:0;
+    font-family: Courier;
+    color: red;
+    font-size:100px;
   }
 
   button {
