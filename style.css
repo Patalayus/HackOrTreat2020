@@ -1,10 +1,9 @@
 * {
     font-family: Helvetica, Arial, sans-serif;
     text-align: center;
-    background-color: coral;
   }
-  body{
-    background-color: coral;
+  html{
+      background-color: darksalmon;
   }
   button {
     background-color: rgb(143, 95, 32);

@@ -5,9 +5,7 @@ var dice = {
       return randomNumber;
     }
   }
-  
-  //Prints dice roll to the page
-  
+
   function printNumber(number) {
     var placeholder = document.getElementById('placeholder');
     placeholder.innerHTML = number;
