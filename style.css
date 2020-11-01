@@ -9,6 +9,10 @@ html {
     color: rgb(48, 33, 0);
   }
 
+  *{
+    box-sizing: border-box;
+  }
+
   button {
     background-color: rgb(143, 95, 32);
     border-radius: 6px;
